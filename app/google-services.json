@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870540230767",
+    "project_id": "fbus-2f422",
+    "storage_bucket": "fbus-2f422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870540230767:android:11c9dde57f854202930d9a",
+        "android_client_info": {
+          "package_name": "com.example.face_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3dLbIeP0yJ5kIdYcCXLHKqawU1yDpGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

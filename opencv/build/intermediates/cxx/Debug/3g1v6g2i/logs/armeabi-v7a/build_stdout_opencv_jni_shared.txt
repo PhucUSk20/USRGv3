@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\AndroidStudioProjects\HaarCascade\opencv\.cxx\Debug\3g1v6g2i\armeabi-v7a'
+ninja: no work to do.
